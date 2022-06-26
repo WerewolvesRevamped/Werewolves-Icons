@@ -1,32 +1,30 @@
-/** Role Categories **/
-// town
 townsfolk categories,Townsfolk/Miscellaneous/Citizen
 townsfolk miscellaneous,Townsfolk/Miscellaneous/Devout Villager
 townsfolk group,Townsfolk/Group/Baker
 townsfolk investigative,Townsfolk/Investigative/Aura Teller
 townsfolk killing,Townsfolk/Killing/Assassin
 townsfolk power,Townsfolk/Power/Stalker
-// wolves
+
 werewolf categories,Werewolf/Miscellaneous/Wolf
 werewolf miscellaneous,Werewolf/Miscellaneous/Wolf
 werewolf investigative,Werewolf/Investigative/Psychic Wolf 
 werewolf power,Werewolf/Power/Tanner
 werewolf killing,Werewolf/Killing/Alpha Wolf
 werewolf transformation,Werewolf/Transformation/Trickster Wolf
-// ua
+
 unaligned categories,Unaligned/Miscellaneous/Angel
 unaligned miscellaneous,Unaligned/Miscellaneous/Riding Hood
 unaligned align,Unaligned/Align/Cat
 unaligned align  hag,NULL
 unaligned align  cupid,Unaligned/Align/Cupid 
 unaligned extra,Unaligned/Extra/Lover
-// solo
+
 solo categories,Solo/Miscellaneous
 solo killing,Solo/Killing
 solo miscellaneous,Solo/Miscellaneous
 solo power,Solo/Power
 solo recruitment,Solo/Recruitment
-// solo teams
+
 solo teams,Solo/Miscellaneous
 hell team,Solo/Hell/Devil
 underworld team,Solo/Underworld/Vampire
@@ -38,16 +36,16 @@ nightmare team,NULL
 plague team,Solo/Plague/Plague Bearer
 pyro team,Solo/Pyro/Pyromancer
 white wolves team,Solo/White Wolves/White Werewolf
-// elected
+
 elected,Elected/Mayor
-/** Groups **/
-//group
+
+
 butchers,Townsfolk/Group/Butcher
 bakers,Townsfolk/Group/Baker
 cult,Townsfolk/Killing/Cult Leader
 hellhounds,Werewolf/Miscellaneous/Hellhound
 jury,NULL
-/** Custom **/
+
 foxes,Werewolf/Fox
 lone werewolves,Werewolf/Killing/Lone Wolf
 wolfpack,Werewolf/Miscellaneous/Wolf
