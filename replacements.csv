@@ -1,0 +1,53 @@
+townsfolk categories,Townsfolk/Miscellaneous/Citizen
+townsfolk miscellaneous,Townsfolk/Miscellaneous/Devout Villager
+townsfolk group,Townsfolk/Group/Baker
+townsfolk investigative,Townsfolk/Investigative/Aura Teller
+townsfolk killing,Townsfolk/Killing/Assassin
+townsfolk power,Townsfolk/Power/Stalker
+
+werewolf categories,Werewolf/Miscellaneous/Wolf
+werewolf miscellaneous,Werewolf/Miscellaneous/Wolf
+werewolf investigative,Werewolf/Investigative/Psychic Wolf 
+werewolf power,Werewolf/Power/Tanner
+werewolf killing,Werewolf/Killing/Alpha Wolf
+werewolf transformation,Werewolf/Transformation/Trickster Wolf
+
+unaligned categories,Unaligned/Miscellaneous/Angel
+unaligned miscellaneous,Unaligned/Miscellaneous/Riding Hood
+unaligned align,Unaligned/Align/Cat
+unaligned align  hag,Unaligned/Align/Hag
+unaligned align  cupid,Unaligned/Align/Cupid 
+unaligned extra,Unaligned/Extra/Lover
+
+solo categories,Solo/Miscellaneous
+solo killing,Solo/Killing
+solo miscellaneous,Solo/Miscellaneous
+solo power,Solo/Power
+solo recruitment,Solo/Recruitment
+
+solo teams,Solo/Miscellaneous
+hell team,Solo/Hell/Devil
+underworld team,Solo/Underworld/Vampire
+flock team,Solo/Flock/Shepherd
+flute team,Solo/Flute/Flute Player
+graveyard team,Solo/Graveyard/Zombie
+hag team,Solo/Hag/Bitter Hag
+nightmare team,Solo/Nightmare/Reaper
+plague team,Solo/Plague/Plague Bearer
+pyro team,Solo/Pyro/Pyromancer
+white wolves team,Solo/White Wolves/White Werewolf
+
+elected,Elected/Mayor
+
+
+butchers,Townsfolk/Group/Butcher
+bakers,Townsfolk/Group/Baker
+cult,Townsfolk/Killing/Cult Leader
+hellhounds,Werewolf/Miscellaneous/Hellhound
+jury,Townsfolk/Group/Juror
+
+foxes,Werewolf/Fox
+lone werewolves,Werewolf/Killing/Lone Wolf
+wolfpack,Werewolf/Miscellaneous/Wolf
+lycans,Werewolf/Miscellaneous/Wolf
+packless werewolves,Werewolf/Power/Tanner
