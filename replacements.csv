@@ -58,3 +58,18 @@ lone werewolves,Werewolf/Killing/Lone Wolf
 wolfpack,Werewolf/Miscellaneous/Wolf
 lycans,Werewolf/Miscellaneous/Wolf
 packless werewolves,Werewolf/Power/Tanner
+
+modifiers,Placeholder/Unaligned
+accursed,Townsfolk/Miscellaneous/Cursed Civilian
+afraid,Werewolf/Miscellaneous/Scared Wolf
+baking,Townsfolk/Group/Baker
+butchering,Townsfolk/Group/Butcher
+childish,Townsfolk/Miscellaneous/Child
+copycatting,Unaligned/Align/Look-Alike
+cubbish,Werewolf/Miscellaneous/Wolfs Cub
+hellish,Werewolf/Miscellaneous/Hellhound
+lovestruck,Unaligned/Align/Cupid
+lurking,Werewolf/Miscellaneous/Sneaking Wolf
+musical,Townsfolk/Miscellaneous/Bard
+prankster,Townsfolk/Miscellaneous/Trickster
+running,Townsfolk/Miscellaneous/Runner
