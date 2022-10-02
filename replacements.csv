@@ -62,19 +62,19 @@ lycans,Werewolf/Miscellaneous/Wolf
 packless werewolves,Werewolf/Power/Tanner
 
 modifiers,Placeholder/Unaligned
-accursed,Townsfolk/Miscellaneous/Cursed Civilian
-afraid,Werewolf/Miscellaneous/Scared Wolf
-baking,Townsfolk/Group/Baker
-butchering,Townsfolk/Group/Butcher
-childish,Townsfolk/Miscellaneous/Child
-copycatting,Unaligned/Align/Look-Alike
-cubbish,Werewolf/Miscellaneous/Wolfs Cub
-hellish,Werewolf/Miscellaneous/Hellhound
-lovestruck,Unaligned/Align/Cupid
-lurking,Werewolf/Miscellaneous/Sneaking Wolf
-musical,Townsfolk/Miscellaneous/Bard
-prankster,Townsfolk/Miscellaneous/Trickster
-running,Townsfolk/Miscellaneous/Runner
+accursed,Modifiers/Accursed
+afraid,Modifiers/Afraid
+baking,Modifiers/Baking
+butchering,Modifiers/Butchering
+childish,Modifiers/Childish
+copycatting,Modifiers/Copycatting
+cubbish,Modifiers/Cubbish
+hellish,Modifiers/Hellish
+lovestruck,Modifiers/Lovestruck
+lurking,Modifiers/Lurking
+musical,Modifiers/Musical
+prankster,Modifiers/Prankster
+running,Modifiers/Running
 
 you have been selected by the chef,Extras/Generic Food
 you have been selected by the grandma,Townsfolk/Power/Grandma
