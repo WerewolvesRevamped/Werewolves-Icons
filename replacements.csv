@@ -50,8 +50,9 @@ bakers,Townsfolk/Group/Baker
 cult,Townsfolk/Killing/Cult Leader
 hellhounds,Werewolf/Miscellaneous/Hellhound
 jury,Townsfolk/Group/Juror
-couple,Unaligned/Align/Cupid
+couple,Unaligned/Extra/Lover
 laboratory,Townsfolk/Killing/Mad Scientist
+fletchers customer,Unaligned/Extra/Fletchers Customer
 
 foxes,Werewolf/Fox
 lone werewolves,Werewolf/Killing/Lone Wolf
@@ -75,3 +76,6 @@ prankster,Townsfolk/Miscellaneous/Trickster
 running,Townsfolk/Miscellaneous/Runner
 
 you have been selected by the chef,Extras/Generic Food
+you have been selected by the grandma,Townsfolk/Power/Grandma
+you are being watched by the stalker,Townsfolk/Power/Stalker
+you are being manipulated by the corrupt wolf,Werewolf/Power/Corrupt Wolf
