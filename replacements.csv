@@ -33,10 +33,10 @@ vampires,Solo/Underworld/Vampire
 flock team,Solo/Flock/Shepherd
 flock,Solo/Flock/Shepherd
 flute team,Solo/Flute/Flute Player
-graveyard team,Solo/Graveyard/Zombie
+graveyard team,Solo/Graveyard/Graveyard Team
 graveyard,Solo/Graveyard/Zombie
 hag team,Solo/Hag/Bitter Hag
-nightmare team,Solo/Nightmare/Reaper
+nightmare team,Solo/Nightmare/Nightmare Team
 plague team,Extras/Rodent
 pyro team,Solo/Pyro/Pyromancer
 cupid team,Unaligned/Extra/Lover
@@ -46,11 +46,11 @@ white wolves team,Solo/White Wolves/White Werewolf
 elected,Elected/Mayor
 bartender,Townsfolk/Miscellaneous/Bartender
 
-butchers,Townsfolk/Group/Butcher
+butchers,Townsfolk/Group/Butchers
 bakers,Townsfolk/Group/Baker
-cult,Townsfolk/Killing/Cult Leader
+cult,Townsfolk/Group/Cult
 hellhounds,Werewolf/Miscellaneous/Hellhound
-jury,Townsfolk/Group/Juror
+jury,Townsfolk/Group/Jury
 couple,Unaligned/Extra/Lover
 laboratory,Townsfolk/Killing/Mad Scientist
 fletchers customer,Unaligned/Extra/Fletchers Customer
