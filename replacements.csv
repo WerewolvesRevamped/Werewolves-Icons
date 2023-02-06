@@ -27,9 +27,9 @@ solo power,Categories/Power
 solo recruitment,Categories/Recruitment
 
 solo teams,Solo/Miscellaneous
-hell,Solo/Hell/Hell Team
-hell team,Solo/Hell/Hell Team
-underworld team,Solo/Underworld/Vampire
+hell,Solo/Hell/Hell Card
+hell team,Solo/Hell/Hell Card
+underworld team,Solo/Underworld/Underworld Card
 underworld,Solo/Underworld/Undead
 vampires,Solo/Underworld/Vampire
 flock team,Solo/Flock/Flock Team
@@ -40,9 +40,9 @@ graveyard,Solo/Graveyard/Graveyard Team
 hag team,Solo/Hag/Bitter Hag
 nightmare team,Solo/Nightmare/Nightmare Team
 plague team,Extras/Rodent
-pyro team,Solo/Pyro/Pyromancer
+pyro team,Solo/Pyro/Pyro Card
+pyros,Solo/Pyro/Pyro Card
 cupid team,Unaligned/Extra/Lover
-pyros,Solo/Pyro/Pyromancer
 white wolves team,Solo/White Wolves/White Werewolf
 horsemen team,Solo/Horsemen/Horsemen
 
