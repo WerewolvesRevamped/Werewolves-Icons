@@ -1,11 +1,11 @@
-townsfolk categories,Townsfolk/Miscellaneous/Citizen
+townsfolk categories,Townsfolk/Townsfolk Card
 townsfolk miscellaneous,Townsfolk/Miscellaneous/Devout Villager
 townsfolk group,Townsfolk/Group/Baker
 townsfolk investigative,Townsfolk/Investigative/Aura Teller
 townsfolk killing,Townsfolk/Killing/Assassin
 townsfolk power,Townsfolk/Power/Stalker
 
-werewolf categories,Werewolf/Miscellaneous/Wolf
+werewolf categories,Werewolf/Wolf Card
 werewolf miscellaneous,Werewolf/Miscellaneous/Wolf
 werewolf group,Werewolf/Group/Hellhound
 werewolf investigative,Werewolf/Investigative/Psychic Wolf 
@@ -20,11 +20,11 @@ unaligned align  hag,Unaligned/Align/Hag
 unaligned align  cupid,Unaligned/Align/Cupid
 unaligned extra,Unaligned/Extra/Lover
 
-solo categories,Solo/Miscellaneous
-solo killing,Solo/Killing
-solo miscellaneous,Solo/Miscellaneous
-solo power,Solo/Power
-solo recruitment,Solo/Recruitment
+solo categories,Categories/Miscellaneous
+solo killing,Categories/Killing
+solo miscellaneous,Categories/Miscellaneous
+solo power,Categories/Power
+solo recruitment,Categories/Recruitment
 
 solo teams,Solo/Miscellaneous
 hell,Solo/Hell/Hell Team
@@ -91,6 +91,7 @@ you have been enchanted,Solo/Flute/Flute Team
 amulet of protection,Extras/Amulet
 out of character,Extras/Out of Character
 voting booth,Extras/Voting Booth
+town square,Extras/Town Square
 
 available potions,Extras/Generic Potion
 available vials,Extras/Vial
