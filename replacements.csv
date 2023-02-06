@@ -13,14 +13,12 @@ werewolf power,Werewolf/Power/Tanner
 werewolf killing,Werewolf/Killing/Alpha Wolf
 werewolf transformation,Werewolf/Transformation/Trickster Wolf
 
-unaligned categories,Unaligned/Miscellaneous/Angel
 unaligned miscellaneous,Unaligned/Miscellaneous/Riding Hood
 unaligned align,Unaligned/Align/Cat
-unaligned align  hag,Unaligned/Align/Hag
+unaligned align  hags,Unaligned/Align/Hag
 unaligned align  cupid,Unaligned/Align/Cupid
 unaligned extra,Unaligned/Extra/Lover
 
-solo categories,Categories/Miscellaneous
 solo killing,Categories/Killing
 solo miscellaneous,Categories/Miscellaneous
 solo power,Categories/Power
@@ -45,9 +43,8 @@ pyros,Solo/Pyro/Pyro Card
 cupid team,Unaligned/Extra/Lover
 white wolves team,Solo/White Wolves/White Werewolf
 horsemen team,Solo/Horsemen/Horsemen
-teams,Extras/WWR
 
-elected,Elected/Mayor
+elected,Extras/Voting Booth
 bartender,Townsfolk/Miscellaneous/Bartender
 
 butchers,Townsfolk/Group/Butchers
@@ -63,7 +60,9 @@ foxes,Werewolf/Fox
 lone werewolves,Werewolf/Killing/Lone Wolf
 wolfpack,Werewolf/Miscellaneous/Wolf
 lycans,Werewolf/Miscellaneous/Wolf
+nonlycans,Werewolf/Investigative/Warlock
 packless werewolves,Werewolf/Power/Tanner
+wolfish,Werewolf/Wolf Card
 
 modifiers,Modifiers/Modifier
 accursed,Modifiers/Accursed
@@ -87,14 +86,23 @@ you are being manipulated by the corrupt wolf,Werewolf/Power/Corrupt Wolf
 you have received the devils wager,Solo/Hell/Wager
 devils wager  additional info  hell team,Solo/Hell/Wager
 souls  additional info  hell team,Extras/Soul
+horsemen  additional information  limited,Solo/Horsemen/Horsemen
 you have been herded,Solo/Flock/Sheep
 you have been enchanted,Solo/Flute/Flute Team
 amulet of protection,Extras/Amulet
 out of character,Extras/Out of Character
 voting booth,Extras/Voting Booth
 town square,Extras/Town Square
+tavern,Extras/Tavern Right
+hags,Unaligned/Align/Hag
 
 available potions,Extras/Generic Potion
 available vials,Extras/Vial
 available souls,Extras/Soul
 waiter list,Extras/Chef Menu
+
+teams,Extras/WWR
+abilities,Extras/WWR
+categories,Extras/WWR
+limited roles,Extras/Bot Developer
+lookalike special cases,Unaligned/Align/Look-Alike
