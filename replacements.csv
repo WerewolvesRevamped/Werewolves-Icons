@@ -13,12 +13,17 @@ werewolf power,Werewolf/Power/Tanner
 werewolf killing,Werewolf/Killing/Alpha Wolf
 werewolf transformation,Werewolf/Transformation/Trickster Wolf
 
+unaligned categories,Placeholder/Unaligned
 unaligned miscellaneous,Unaligned/Miscellaneous/Riding Hood
 unaligned align,Unaligned/Align/Cat
 unaligned align  hags,Unaligned/Align/Hag
 unaligned align  cupid,Unaligned/Align/Cupid
-unaligned extra,Unaligned/Extra/Lover
 
+extra categories,Extras/Extra
+extra elected,Extra/Elected/Mayor
+extra miscellaneous,Extra/Miscellaneous/Lover
+
+solo categories,Placeholder/Solo
 solo killing,Categories/Killing
 solo miscellaneous,Categories/Miscellaneous
 solo power,Categories/Power
@@ -44,7 +49,6 @@ cupid team,Unaligned/Extra/Lover
 white wolves team,Solo/White Wolves/White Werewolf
 horsemen team,Solo/Horsemen/Horsemen
 
-elected,Extras/Voting Booth
 bartender,Townsfolk/Miscellaneous/Bartender
 
 butchers,Townsfolk/Group/Butchers
