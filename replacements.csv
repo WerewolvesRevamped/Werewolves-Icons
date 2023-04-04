@@ -125,3 +125,19 @@ neighbor,Minis/Neighbor
 acrobat,Minis/Acrobat
 acrobatic,Minis/Acrobatic
 blessed wolf,Minis/Blessed Wolf
+
+attacks,Categories/Killing
+investigations,Categories/Invest Card
+targeting,Categories/Miscellaneous
+disguises,Extras/Disguise
+protections,Extras/Protect
+defenses,Extras/Protect
+redirections,Extras/Redirect
+killing,Categories/Killing
+vote manipulation,Extras/Voting Booth
+whispering,Categories/Whsipering
+inflicting,Categories/Power
+obstructions,Extras/Bot Developer
+group membership,Categories/Group Card
+lynching,Extras/Voting Booth
+ascension descension
