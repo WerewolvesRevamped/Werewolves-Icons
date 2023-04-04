@@ -135,7 +135,7 @@ ability types  defenses,Extras/Defense
 ability types  redirections,Extras/Redirect
 ability types  killing,Categories/Killing
 ability types  vote manipulation,Extras/Voting Booth
-ability types  whispering,Categories/Whispering
+ability types  whispering,Extras/Whispering
 ability types  inflicting,Categories/Power
 ability types  obstructions,Extras/Bot Developer
 ability types  group membership,Categories/Group Card
