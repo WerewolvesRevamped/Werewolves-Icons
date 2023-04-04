@@ -127,7 +127,7 @@ acrobatic,Minis/Acrobatic
 blessed wolf,Minis/Blessed Wolf
 
 ability types  attacks,Categories/Killing
-ability types  investigations,Categories/Invest Card
+ability types  investigation,Categories/Invest Card
 ability types  targeting,Categories/Miscellaneous
 ability types  disguises,Extras/Disguise
 ability types  protections,Extras/Protect
