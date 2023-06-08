@@ -72,17 +72,24 @@ wolfish,Werewolf/Wolf Card
 modifiers,Modifiers/Modifier
 accursed,Modifiers/Accursed
 afraid,Modifiers/Afraid
+amnetic,Modifiers/Amnetic
 baking,Modifiers/Baking
 butchering,Modifiers/Butchering
 childish,Modifiers/Childish
 copycatting,Modifiers/Copycatting
 cubbish,Modifiers/Cubbish
+dominant,Modifiers/Dominant
+faithful,Modifiers/Faithful
 hellish,Modifiers/Hellish
+idiotic,Modifiers/Idiotic
+inebriated,Modifiers/Inebriated
 lovestruck,Modifiers/Lovestruck
 lurking,Modifiers/Lurking
 musical,Modifiers/Musical
 prankster,Modifiers/Prankster
 running,Modifiers/Running
+smart,Modifiers/Smart
+thieving,Modifiers/Thieving
 
 you have been selected by the chef,Extras/Generic Food
 you have been selected by the grandma,Townsfolk/Power/Grandma
