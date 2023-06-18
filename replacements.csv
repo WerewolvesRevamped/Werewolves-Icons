@@ -15,6 +15,9 @@ werewolf transformation,Werewolf/Transformation/Trickster Wolf
 
 unaligned categories,Placeholder/Unaligned
 unaligned miscellaneous,Unaligned/Miscellaneous/Riding Hood
+unaligned investigative,Unaligned/Investigative/Detective
+unaligned power,Unaligned/Power/Cautious Hag
+unaligned killing,Unaligned/Killing/Angel
 unaligned align,Unaligned/Align/Cat
 unaligned align  hags,Unaligned/Align/Hag
 unaligned align  cupid,Unaligned/Align/Cupid
@@ -27,6 +30,7 @@ solo categories,Placeholder/Solo
 solo killing,Categories/Killing
 solo miscellaneous,Categories/Miscellaneous
 solo power,Categories/Power
+solo investigative,Categories/Invest Card
 solo recruitment,Categories/Recruitment
 
 solo teams,Solo/Miscellaneous
