@@ -63,7 +63,6 @@ jury,Townsfolk/Group/Jury
 couple,Unaligned/Extra/Lover
 laboratory,Townsfolk/Killing/Mad Scientist
 fletchers customer,Extra/Miscellaneous/Fletchers Customer
-amulet of protection,Extras/Amulet
 
 foxes,Werewolf/Fox
 lone werewolves,Werewolf/Killing/Lone Wolf
@@ -105,7 +104,6 @@ souls  additional info  hell team,Extras/Soul
 horsemen  additional information  limited,Solo/Horsemen/Horsemen
 you have been herded,Solo/Flock/Sheep
 you have been enchanted,Solo/Flute/Flute Team
-amulet of protection,Extras/Amulet
 out of character,Extras/Out of Character
 voting booth,Extras/Voting Booth
 town square,Extras/Town Square
@@ -156,6 +154,8 @@ ability types  group membership,Categories/Group Card
 ability types  lynching,Extras/Voting Booth
 ability types  ascension descension,Extras/Ascension
 ability types  role blocking,Extras/Role Blocking
+
+player tokens,Extras/Token
 
 loyal cupid,Placeholder/Cupid
 gallant fox,Placeholder/Fox
