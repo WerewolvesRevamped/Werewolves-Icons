@@ -19,7 +19,7 @@ unaligned investigative,Unaligned/Investigative/Detective
 unaligned power,Unaligned/Power/Cautious Hag
 unaligned killing,Unaligned/Killing/Angel
 unaligned align,Unaligned/Align/Cat
-unaligned align  hags,Unaligned/Align/Hag
+unaligned align  hags,Unaligned/Miscellaneous/Hag
 unaligned align  cupid,Unaligned/Align/Cupid
 
 extra categories,Extras/Extra
@@ -110,7 +110,7 @@ out of character,Extras/Out of Character
 voting booth,Extras/Voting Booth
 town square,Extras/Town Square
 tavern,Extras/Tavern Right
-hags,Unaligned/Align/Hag
+hags,Unaligned/Miscellaneous/Hag
 
 available potions,Extras/Generic Potion
 available vials,Extras/Vial
