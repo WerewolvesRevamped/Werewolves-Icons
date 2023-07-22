@@ -130,7 +130,7 @@ variant roles,Unaligned/Align/Thief
 variant info,Unaligned/Align/Thief
 temporary roles,Extras/Dead Game Master
 temporary info,Extras/Dead Game Master
-curse caster,Offbrand/Curse Caster
+curse caster,Offbrand/CurseCaster
 priestess,Offbrand/Priestess
 lookalike special cases,Unaligned/Align/Look-Alike
 
