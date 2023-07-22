@@ -140,16 +140,16 @@ ts,Extras/Bot Developer
 game master,Extras/Game Master
 host,Extras/Host
 
-mini wolves,Minis/MWR
-grandpa,Minis/Grandpa
-actor,Minis/Actor
-wild child,Minis/Wild Child
-master barber,Minis/Master Barber
-royal guard,Minis/Royal Guard
-neighbor,Minis/Neighbor
-acrobat,Minis/Acrobat
-acrobatic,Minis/Acrobatic
-blessed wolf,Minis/Blessed Wolf
+mini wolves,Offbrand/MWR
+grandpa,Offbrand/Grandpa
+actor,Offbrand/Actor
+wild child,Offbrand/Wild Child
+master barber,Offbrand/Master Barber
+royal guard,Offbrand/Royal Guard
+neighbor,Offbrand/Neighbor
+acrobat,Offbrand/Acrobat
+acrobatic,Offbrand/Acrobatic
+blessed wolf,Offbrand/Blessed Wolf
 
 ability types  attacks,Extras/Attack
 ability types  investigation,Categories/Invest Card
