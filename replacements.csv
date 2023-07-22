@@ -130,6 +130,8 @@ variant roles,Unaligned/Align/Thief
 variant info,Unaligned/Align/Thief
 temporary roles,Extras/Dead Game Master
 temporary info,Extras/Dead Game Master
+curse caster,Werewolf/Power/Curse Caster
+priestess,Townsfolk/Power/Priestess
 lookalike special cases,Unaligned/Align/Look-Alike
 
 joke roles,Extras/Game Master
