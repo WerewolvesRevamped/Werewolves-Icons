@@ -211,8 +211,8 @@ golem,Unaligned/Power/Golem
 swindler,Unaligned/Power/Swindler
 unemployed chef,Unaligned/Power/Unemployed Chef
 bat,Solo/Underworld/Bat
-sheep,Solo/Underworld/Sheep
-herded,Solo/Underworld/Sheep
+sheep,Solo/Flock/Sheep
+herded,Solo/Flock/Sheep
 cerberus,Solo/Hell/Cerberus
 
 ability types  attacks,Extras/Attack
