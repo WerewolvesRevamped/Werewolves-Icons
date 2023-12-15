@@ -117,7 +117,7 @@ available vials,Extras/Vial
 available souls,Extras/Soul
 available ravens,Extras/Raven
 waiter list,Extras/Chef Menu
-knowledgeable wolf list,Werewolf/Miscellaneous/Knowledgable Wolf List
+knowledgeable wolf list,Werewolf/Miscellaneous/Knowledgeable Wolf List
 psychopath list,Unaligned/Investigative/Psycho List
 
 roles,Extras/WWR
@@ -218,22 +218,24 @@ sheep,Solo/Flock/Sheep
 herded,Solo/Flock/Sheep
 cerberus,Solo/Hell/Cerberus
 
-ability types  attacks,Extras/Attack
-ability types  investigation,Categories/Invest Card
+ability types  killing,Categories/Killing
+ability types  investigations,Categories/Invest Card
 ability types  targeting,Categories/Miscellaneous
 ability types  disguises,Extras/Disguise
 ability types  protections,Extras/Protect
-ability types  defenses,Extras/Defense
+ability types  applying,Extras/Extra
 ability types  redirections,Extras/Redirect
-ability types  killing,Categories/Killing
-ability types  vote manipulation,Extras/VoteManipulation
-ability types  whispering,Extras/Whispering
-ability types  inflicting,Categories/Power
+ability types  vote manipulations,Extras/Vote Manipulation
+ability types  whispers,Extras/Whispering
+ability types  joining,Categories/Group Card
+ability types  granting,Extras/Extra
+ability types  loyalty,Extras/Soul
 ability types  obstructions,Extras/Bot Developer
-ability types  group membership,Categories/Group Card
-ability types  lynching,Extras/Lynch
-ability types  ascension descension,Extras/Ascension
-ability types  role blocking,Extras/Role Blocking
+ability types  poll manipulation,Extras/Voting Booth
+ability types  announcements,Werewolf/Miscellaneous/Knowledgeable Wolf List
+ability types  role changes,Extras/Align Card
+ability types  ability copying,Unaligned/Align/Look-Alike
+ability types  choices,Placeholder/Unaligned
 
 player tokens,Extras/Token
 
