@@ -206,6 +206,15 @@ town elder,Offbrand/Town Elder
 very cursed villager,Offbrand/Very Cursed Villager
 vigilante,Offbrand/Vigilante
 
+bear,Unaligned/Killing/Bear
+golem,Unaligned/Power/Golem
+swindler,Unaligned/Power/Swindler
+unemployed chef,Unaligned/Power/Unemployed Chef
+bat,Solo/Underworld/Bat
+sheep,Solo/Flock/Sheep
+herded,Solo/Flock/Sheep
+cerberus,Solo/Hell/Cerberus
+
 ability types  attacks,Extras/Attack
 ability types  investigation,Categories/Invest Card
 ability types  targeting,Categories/Miscellaneous
