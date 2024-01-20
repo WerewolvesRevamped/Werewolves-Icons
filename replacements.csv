@@ -53,6 +53,49 @@ cupid team,Unaligned/Extra/Lover
 white wolves team,Solo/White Wolves/White Werewolf
 horsemen team,Solo/Horsemen/Horsemen
 
+
+killing,Categories/Killing
+investigations,Categories/Invest Card
+targeting,Categories/Miscellaneous
+disguises,Extras/Disguise
+protections,Extras/Protect
+applying,Extras/Extra
+redirections,Extras/Redirect
+vote manipulations,Extras/Vote Manipulation
+whispers,Extras/Whispering
+joining,Categories/Group Card
+granting,Extras/Extra
+loyalty,Extras/Soul
+obstructions,Extras/Bot Developer
+poll manipulation,Extras/Voting Booth
+announcements,Werewolf/Miscellaneous/Knowledgeable Wolf List
+role changes,Extras/Align Card
+ability copying,Unaligned/Align/Look-Alike
+choices,Placeholder/Unaligned
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 bartender,Townsfolk/Miscellaneous/Bartender
 
 butchers,Townsfolk/Group/Butchers
@@ -220,25 +263,6 @@ bat,Solo/Underworld/Bat
 sheep,Solo/Flock/Sheep
 herded,Solo/Flock/Sheep
 cerberus,Solo/Hell/Cerberus
-
-ability types  killing,Categories/Killing
-ability types  investigations,Categories/Invest Card
-ability types  targeting,Categories/Miscellaneous
-ability types  disguises,Extras/Disguise
-ability types  protections,Extras/Protect
-ability types  applying,Extras/Extra
-ability types  redirections,Extras/Redirect
-ability types  vote manipulations,Extras/Vote Manipulation
-ability types  whispers,Extras/Whispering
-ability types  joining,Categories/Group Card
-ability types  granting,Extras/Extra
-ability types  loyalty,Extras/Soul
-ability types  obstructions,Extras/Bot Developer
-ability types  poll manipulation,Extras/Voting Booth
-ability types  announcements,Werewolf/Miscellaneous/Knowledgeable Wolf List
-ability types  role changes,Extras/Align Card
-ability types  ability copying,Unaligned/Align/Look-Alike
-ability types  choices,Placeholder/Unaligned
 
 player tokens,Extras/Token
 
