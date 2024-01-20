@@ -73,7 +73,11 @@ role changes,Extras/Align Card
 ability copying,Unaligned/Align/Look-Alike
 choices,Placeholder/Unaligned
 
-
+out of character,Extras/Out of Character
+voting booth,Extras/Voting Booth
+town square,Extras/Town Square
+tavern,Extras/Tavern Right
+dead  spectator,Solo/Graveyard/Graveyard Team
 
 
 
@@ -149,10 +153,9 @@ you have been herded,Solo/Flock/Sheep
 you have been enchanted,Solo/Flute/Flute Team
 you have received the cerberus offer,Solo/Hell/Cerberus Offer
 
-out of character,Extras/Out of Character
-voting booth,Extras/Voting Booth
-town square,Extras/Town Square
-tavern,Extras/Tavern Right
+
+
+
 hags,Unaligned/Miscellaneous/Hag
 
 available potions,Extras/Generic Potion
