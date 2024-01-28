@@ -1,5 +1,6 @@
 Original Name,Icon Path
 
+TOWN CATEGORIES,-
 townsfolk categories,Townsfolk/Townsfolk Card
 townsfolk miscellaneous,Townsfolk/Miscellaneous/Devout Villager
 townsfolk group,Townsfolk/Group/Baker
@@ -7,14 +8,15 @@ townsfolk investigative,Townsfolk/Investigative/Aura Teller
 townsfolk killing,Townsfolk/Killing/Assassin
 townsfolk power,Townsfolk/Power/Stalker
 
+WOLF CATEGORIES,-
 werewolf categories,Werewolf/Wolf Card
 werewolf miscellaneous,Werewolf/Miscellaneous/Wolf
 werewolf group,Werewolf/Group/Hellhound
 werewolf investigative,Werewolf/Investigative/Psychic Wolf 
 werewolf power,Werewolf/Power/Tanner
 werewolf killing,Werewolf/Killing/Alpha Wolf
-werewolf transformation,Werewolf/Transformation/Trickster Wolf
 
+UA CATEGORIES,-
 unaligned categories,Placeholder/Unaligned
 unaligned miscellaneous,Unaligned/Miscellaneous/Riding Hood
 unaligned investigative,Unaligned/Investigative/Detective
@@ -24,38 +26,34 @@ unaligned align,Unaligned/Align/Cat
 unaligned align  hags,Unaligned/Miscellaneous/Hag
 unaligned align  cupid,Unaligned/Align/Cupid
 
+EXTRA CATEGORIES,-
 extra categories,Extras/Extra
 extra elected,Extra/Elected/Mayor
 extra miscellaneous,Extra/Miscellaneous/Lover
+extra killing,Extra/Killing/Fletchers Customer
+extra power,Extra/Power/Amulet Of Protection
 
+SOLO CATEGORIES,-
 solo categories,Placeholder/Solo
 solo killing,Categories/Killing
 solo miscellaneous,Categories/Miscellaneous
 solo power,Categories/Power
 solo investigative,Categories/Invest Card
-solo recruitment,Categories/Recruitment
 
+SOLO TEAMS,-
 solo teams,Solo/Miscellaneous
-hell,Solo/Hell/Hell Card
 hell team,Solo/Hell/Hell Card
 underworld team,Solo/Underworld/Underworld Card
-underworld,Solo/Underworld/Underworld Card
-vampires,Solo/Underworld/Vampire
-flock team,Solo/Flock/Flock Team
-flock,Solo/Flock/Flock Team
 flute team,Solo/Flute/Flute Team
 graveyard team,Solo/Graveyard/Graveyard Team
-graveyard,Solo/Graveyard/Graveyard Team
-hag team,Solo/Hag/Bitter Hag
+coven team,Solo/Hag/Bitter Hag
 nightmare team,Solo/Nightmare/Nightmare Team
 plague team,Extras/Rodent
 pyro team,Solo/Pyro/Pyro Card
-pyros,Solo/Pyro/Pyro Card
-cupid team,Unaligned/Extra/Lover
 white wolves team,Solo/White Wolves/White Werewolf
 horsemen team,Solo/Horsemen/Horsemen
 
-
+ABILITY TYPES,-
 killing,Categories/Killing
 investigations,Categories/Invest Card
 targeting,Categories/Miscellaneous
@@ -75,12 +73,30 @@ role changes,Extras/Align Card
 ability copying,Unaligned/Align/Look-Alike
 choices,Placeholder/Unaligned
 
+PUBLIC CHANNELS,-
 out of character,Extras/Out of Character
 voting booth,Extras/Voting Booth
 town square,Extras/Town Square
 tavern,Extras/Tavern Right
 dead  spectators,Solo/Graveyard/Graveyard Team
 
+GROUPS,-
+butchers,Townsfolk/Group/Butchers
+bakers,Townsfolk/Group/Bakers
+cult,Townsfolk/Group/Cult
+jury,Townsfolk/Group/Jury
+couple,Unaligned/Extra/Lover
+laboratory,Townsfolk/Killing/Mad Scientist
+bitter hags,Solo/Coven/Coven Card
+flutes,Solo/Flute/Flute Team
+vampires,Solo/Underworld/Vampire
+hell,Solo/Hell/Hell Card
+underworld,Solo/Underworld/Underworld Card
+graveyard,Solo/Graveyard/Graveyard Team
+pyros,Solo/Pyro/Pyro Card
+grandmas house,Townsfolk/Power/Grandma
+medium question,Townsfolk/Power/Medium
+nightmare,Solo/Nightmare/Nightmare Team
 
 
 
@@ -90,28 +106,15 @@ dead  spectators,Solo/Graveyard/Graveyard Team
 
 
 
-
-
-
-
-
-
-
-
-
+OLD,-
+OLD,-
+OLD,-
 
 
 
 bartender,Townsfolk/Miscellaneous/Bartender
 
-butchers,Townsfolk/Group/Butchers
-bakers,Townsfolk/Group/Bakers
-cult,Townsfolk/Group/Cult
-hellhounds,Werewolf/Group/Hellhound
-jury,Townsfolk/Group/Jury
-couple,Unaligned/Extra/Lover
-laboratory,Townsfolk/Killing/Mad Scientist
-fletchers customer,Extra/Miscellaneous/Fletchers Customer
+
 
 foxes,Werewolf/Fox
 lone werewolves,Werewolf/Killing/Lone Wolf
