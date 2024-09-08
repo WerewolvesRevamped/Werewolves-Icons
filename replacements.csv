@@ -40,13 +40,15 @@ solo miscellaneous,Categories/Miscellaneous
 solo power,Categories/Power
 solo investigative,Categories/Invest Card
 
-SOLO TEAMS,-
+TEAMS,-
+townsfolk,Townsfolk/Townsfolk Card
+werewolves,Werewolf/Wolf Card
 solo teams,Solo/Miscellaneous
 hell team,Solo/Hell/Hell Card
 underworld team,Solo/Underworld/Underworld Card
 flute team,Solo/Flute/Flute Team
 graveyard team,Solo/Graveyard/Graveyard Team
-coven team,Solo/Hag/Bitter Hag
+coven team,Solo/Coven/Coven Card
 nightmare team,Solo/Nightmare/Nightmare Team
 plague team,Extras/Rodent
 pyro team,Solo/Pyro/Pyro Card
@@ -175,6 +177,7 @@ waiter list,Extras/Chef Menu
 knowledgeable wolf list,Werewolf/Miscellaneous/Knowledgeable Wolf List
 psychopath list,Unaligned/Investigative/Psycho List
 
+GENERAL INFO,-
 roles,Extras/WWR
 teams,Extras/WWR
 abilities,Extras/WWR
@@ -185,10 +188,10 @@ variant roles,Unaligned/Align/Thief
 variant info,Unaligned/Align/Thief
 temporary roles,Extras/Dead Game Master
 temporary info,Extras/Dead Game Master
-curse caster,Offbrand/Curse Caster
 priestess,Offbrand/Priestess
 lookalike special cases,Unaligned/Align/Look-Alike
 
+JOKE ROLES,-
 joke roles,Extras/Game Master
 administrator,Extras/Administrator
 ts,Extras/Bot Developer
@@ -197,6 +200,7 @@ jay,Extras/Rolelist Expert
 game master,Extras/Game Master
 host,Extras/Host
 
+OLD OFFBRAND,-
 mini wolves,Offbrand/MWR
 grandpa,Offbrand/Grandpa
 actor,Offbrand/Actor
@@ -265,7 +269,9 @@ alternative ice king,Offbrand/Alternative Ice King
 ice queen,Offbrand/Ice Queen
 ice prince,Offbrand/Ice Prince
 executioner wolf,Offbrand/Executioner Wolf
+curse caster,Offbrand/Curse Caster
 
+REMOVED ROLES,-
 bear,Unaligned/Killing/Bear
 golem,Unaligned/Power/Golem
 swindler,Unaligned/Power/Swindler
@@ -275,12 +281,15 @@ sheep,Solo/Flock/Sheep
 herded,Solo/Flock/Sheep
 cerberus,Solo/Hell/Cerberus
 
+PLAYER TOKENS,-
 player tokens,Extras/Token
 
+NEW ROLES PLACEHOLDERS,-
 loyal cupid,Placeholder/Cupid
 gallant fox,Placeholder/Fox
 cleric,Offbrand/Cleric
 
+WWR2 Offbrand,-
 nebula soothsayer,Offbrand2/Nebula Soothsayer
 spiritualistic turtle,Offbrand2/Spiritualistic Turtle
 arcane druid,Offbrand2/Arcane Druid
