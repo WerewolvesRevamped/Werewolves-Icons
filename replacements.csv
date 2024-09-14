@@ -82,6 +82,10 @@ town square,Extras/Town Square
 tavern,Extras/Tavern Right
 dead  spectators,Solo/Graveyard/Graveyard Team
 
+PHASES,-
+night,Offbrand/The Moon
+day,Offbrand/The Sun
+
 GROUPS,-
 butchers,Townsfolk/Group/Butchers
 bakers,Townsfolk/Group/Bakers
