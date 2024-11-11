@@ -83,8 +83,8 @@ tavern,Extras/Tavern Right
 dead  spectators,Solo/Graveyard/Graveyard Team
 
 PHASES,-
-night,Offbrand/The Moon
-day,Offbrand/The Sun
+night,Extras/Night
+day,Extras/Day
 
 GROUPS,-
 butchers,Townsfolk/Group/Butchers
