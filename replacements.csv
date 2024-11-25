@@ -58,7 +58,7 @@ horsemen team,Solo/Horsemen/Horsemen
 ABILITY TYPES,-
 killing,Categories/Killing
 investigations,Categories/Invest Card
-targeting,Categories/Miscellaneous
+targeting,Extras/Targeting
 disguises,Extras/Disguise
 protections,Extras/Protect
 applying,Extras/Extra
@@ -71,8 +71,8 @@ loyalty,Extras/Soul
 obstructions,Extras/Bot Developer
 poll manipulation,Extras/Voting Booth
 announcements,Werewolf/Miscellaneous/Knowledgeable Wolf List
-role changes,Extras/Align Card
-ability copying,Unaligned/Align/Look-Alike
+role changes,Extras/Role Change
+ability copying,Extras/Copying
 choices,Placeholder/Unaligned
 
 PUBLIC CHANNELS,-
