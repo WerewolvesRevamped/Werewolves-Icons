@@ -203,6 +203,8 @@ vera,Extras/Artist
 jay,Extras/Rolelist Expert
 game master,Extras/Game Master
 host,Extras/Host
+evil ts,Offbrand/Evil Ts
+duck,Offbrand/Duck
 
 OLD OFFBRAND,-
 mini wolves,Offbrand/MWR
@@ -216,8 +218,9 @@ acrobat,Offbrand/Acrobat
 acrobatic,Offbrand/Acrobatic
 blessed wolf,Offbrand/Blessed Wolf
 last living citizen,Offbrand/Last Living Citizen
-last living wolf,Offbrand/Packless Wolf
-rival,Offbrand/Jack Robinson
+last living wolf,Offbrand/Last Living Wolf
+last living baby wolf,Offbrand/Last Living Baby Wolf
+rival,Offbrand/Rival
 burglar,Offbrand/Burglar
 cryptographer,Offbrand/Cryptographer
 the thing,Offbrand/The Thing
@@ -275,6 +278,7 @@ ice queen,Offbrand/Ice Queen
 ice prince,Offbrand/Ice Prince
 executioner wolf,Offbrand/Executioner Wolf
 curse caster,Offbrand/Curse Caster
+mwr raven,Offbrand/MWR Raven
 
 REMOVED ROLES,-
 bear,Unaligned/Killing/Bear
@@ -293,6 +297,7 @@ NEW ROLES PLACEHOLDERS,-
 loyal cupid,Placeholder/Cupid
 gallant fox,Placeholder/Fox
 cleric,Offbrand/Cleric
+monarch,Offbrand/Monarch
 
 WWR2 Offbrand,-
 nebula soothsayer,Offbrand2/Nebula Soothsayer
