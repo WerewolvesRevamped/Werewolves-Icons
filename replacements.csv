@@ -104,7 +104,7 @@ pyros,Solo/Pyro/Pyro Card
 grandmas house,Townsfolk/Power/Grandma
 medium question,Townsfolk/Power/Medium
 nightmare,Solo/Nightmare/Nightmare Team
-plague put,Extras/Rodent
+plague pit,Extras/Rodent
 
 
 
@@ -376,4 +376,5 @@ raven,Extras/Raven
 ICONS,-
 knife,Categories/Killing
 lute,Townsfolk/Miscellaneous/Bard Background
+rodent,Extras/Rodent
 
