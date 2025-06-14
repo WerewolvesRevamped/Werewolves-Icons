@@ -68,10 +68,10 @@ vote manipulations,Extras/Vote Manipulation
 whispers,Extras/Whispering
 joining,Categories/Group Card
 granting,Extras/Extra
-loyalty,Extras/Soul
+loyalty,Extras/Loyalty
 obstructions,Extras/Bot Developer
 poll manipulation,Extras/Voting Booth
-announcements,Werewolf/Miscellaneous/Knowledgeable Wolf List
+announcements,Extras/Announcement
 role changes,Extras/Role Change
 ability copying,Extras/Copying
 choices,Placeholder/Unaligned
@@ -307,7 +307,6 @@ player tokens,Extras/Token
 NEW ROLES PLACEHOLDERS,-
 loyal cupid,Placeholder/Cupid
 gallant fox,Placeholder/Fox
-cleric,Offbrand/Cleric
 monarch,Offbrand/Monarch
 
 WWR2 Offbrand,-
