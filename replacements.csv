@@ -2,16 +2,16 @@ Original Name,Icon Path
 
 TOWN CATEGORIES,-
 townsfolk categories,Townsfolk/Townsfolk Card
-townsfolk miscellaneous,Townsfolk/Miscellaneous/Devout Villager
+townsfolk miscellaneous,Townsfolk/Miscellaneous/Journalist
 townsfolk group,Townsfolk/Group/Baker
 townsfolk investigative,Townsfolk/Investigative/Aura Teller
 townsfolk killing,Townsfolk/Killing/Assassin
-townsfolk power,Townsfolk/Power/Stalker
+townsfolk power,Townsfolk/Power/Grandma
 
 WOLF CATEGORIES,-
 werewolf categories,Werewolf/Wolf Card
 werewolf miscellaneous,Werewolf/Miscellaneous/Wolf
-werewolf group,Werewolf/Group/Hellhound
+werewolf group,Werewolf/Group/Bloody Butcher
 werewolf investigative,Werewolf/Investigative/Psychic Wolf 
 werewolf power,Werewolf/Power/Tanner
 werewolf killing,Werewolf/Killing/Alpha Wolf
@@ -20,7 +20,7 @@ UA CATEGORIES,-
 unaligned categories,Placeholder/Unaligned
 unaligned miscellaneous,Unaligned/Miscellaneous/Riding Hood
 unaligned investigative,Unaligned/Investigative/Detective
-unaligned power,Unaligned/Power/Cautious Hag
+unaligned power,Unaligned/Power/Despot
 unaligned killing,Unaligned/Killing/Angel
 unaligned align,Unaligned/Align/Cat
 unaligned align  hags,Unaligned/Miscellaneous/Hag
