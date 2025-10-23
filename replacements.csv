@@ -312,7 +312,7 @@ monarch,Offbrand/Monarch
 WWR2 Offbrand,-
 nebula soothsayer,Offbrand2/Nebula Soothsayer
 spiritualistic turtle,Offbrand2/Spiritualistic Turtle
-arcane druid,Offbrand2/Arcane Druid
+arcane druid,Offbrand/Spiritualist
 harmonic guardian,Offbrand2/Harmonic Guardian
 penumbral defender,Offbrand2/Penumbral Defender
 relaxed villager,Offbrand2/Relaxed Villager
@@ -334,19 +334,22 @@ rogue entities,Offbrand2/Nullarcanist
 ailmentbearers,Offbrand2/Plague Serenader
 
 HAUNTING ROLES,-
-revenant,Offbrand/Banisher
-banisher,Offbrand/Banisher
+revenant,Offbrand/Revenant
 poltergeist,Offbrand/Poltergeist
 banshee,Offbrand/Banshee
 fenrir,Offbrand/Fenrir
-spiritualist,Offbrand2/Arcane Druid
+spiritualist,Offbrand/Spiritualist
 gravekeeper,Solo/Graveyard/Graveyard Team
 haunting,Offbrand/Ghost
 ghost,Offbrand/Ghost
 ghost elections,Offbrand/Ghost Elections
 banishment,Offbrand/Banishment
-spiritual,Offbrand/Spiritual
+haunted,Offbrand/Haunted
 ghostly,Offbrand/Ghostly
+prophet,Offbrand/Prophet
+monk,Offbrand/Monk
+spirit touched,Offbrand/Spirit Touched
+hexed wolf,Offbrand/Hexed Wolf
 
 TAROT CARDS,-
 the emperor,Offbrand/The Emperor
