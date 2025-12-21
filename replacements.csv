@@ -55,6 +55,12 @@ plague team,Extras/Rodent
 pyro team,Solo/Pyro/Pyro Card
 white wolves team,Solo/White Wolves/White Wolves Card
 horsemen team,Solo/Horsemen/Horsemen
+cupid team,Offbrand/Lovers Team
+lovers team,Offbrand/Lovers Team
+ice royals team,Offbrand/Ice Royals
+immortal team,Offbrand/Immortal Team
+heaven team,Offbrand/Heaven Team
+admin team,Extras/Administrator
 
 ABILITY TYPES,-
 killing,Categories/Killing
@@ -275,7 +281,7 @@ solo psychopath,Offbrand/Solo Psychopath
 stalker wolf,Offbrand/Stalker Wolf
 tasty villager,Offbrand/Tasty Villager
 town elder,Offbrand/Town Elder
-very cursed villager,Offbrand/Very Cursed Villager
+very cursed villager,Townsfolk/Miscellaneous/Cursed Civilian
 vigilante,Offbrand/Vigilante
 ice king,Offbrand/Ice King
 alternative ice king,Offbrand/Alternative Ice King
@@ -297,6 +303,29 @@ greater coyote,Offbrand/Greater Coyote
 lesser coyote,Offbrand/Lesser Coyote
 keen coyote,Offbrand/Keen Coyote
 coyotes,Offbrand/Lesser Coyote
+cupid (town),Offbrand/Cupid Town
+white werewolf (old),Offbrand/White Werewolf Old
+angel (solo),Offbrand/Solo Angel
+despot (solo),Offbrand/Solo Despot
+psychopath (solo),Offbrand/Solo Psychopath
+tanner (old),Offbrand/Tanner Old
+undead (old),Offbrand/Undead Old
+horseman #1,Offbrand/Horseman 1
+horseman #2,Offbrand/Horseman 2
+horseman #3,Offbrand/Horseman 3
+horseman #4,Offbrand/Horseman 4
+alcoholic (old),Offbrand/Alternative Alcoholic
+innkeeper (old),Offbrand/Original Innkeeper
+immortal (old),Offbrand/Immortal Old
+saint (imp),Offbrand/Saint
+archangel (devil),Offbrand/Archangel
+receptionist,Townsfolk/Investigative/Innkeeper
+fortune apprentice (old),Offbrand/Fortune Apprentice Old
+cursed civilian old,Offbrand/Very Cursed Civilian
+mayor [<=15],Extra/Elected/Mayor
+mayor [>15],Extra/Elected/Mayor
+guardian [<=15],Extra/Elected/Guardian
+guardian [>15],Extra/Elected/Guardian
 
 REMOVED ROLES,-
 bear,Unaligned/Killing/Bear
