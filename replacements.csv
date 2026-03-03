@@ -326,6 +326,7 @@ mayor [<=15],Extra/Elected/Mayor
 mayor [>15],Extra/Elected/Mayor
 guardian [<=15],Extra/Elected/Guardian
 guardian [>15],Extra/Elected/Guardian
+stock market,Offbrand/Stock Market
 
 REMOVED ROLES,-
 bear,Unaligned/Killing/Bear
